@@ -1,6 +1,8 @@
 # Arduino-Keypad 🎛️⚡
-
 Custom macro pad powered by Arduino + Python. Remap keys, manage profiles, and automate workflows with style.
+
+## Upload
+Upload ardunio_keypad.ino to your Arduino Uno
 
 ## 🚀 Download
 Grab the standalone `.exe` from [Releases](https://github.com/YOUR_USERNAME/NifftySwiggle-Keypad/releases)
